@@ -1,0 +1,46 @@
+body{
+    background-image: url(image/Capture.PNG);
+}
+.produit{
+height: 400px;
+width: 350px;
+float: left;
+margin-top: 40px;
+margin-left: 40px;
+margin-right: 20px;
+margin-bottom: 10px;
+padding-left: 20px;
+padding-top: 20px;
+background-color: #4ecdc4; 
+}
+
+.page
+{
+    background-color:#ff6b6b;
+    height: 1000px;
+    width: 900px;
+    margin: 40px auto;
+    padding: 50px;
+}
+.menu{
+    float: right;
+    line-height: 2em;
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+}
+.menu ul li a{
+    color: #52b788;
+    font-size: 20px;    
+    padding: 10px;
+    text-decoration: none;
+}
+.menu ul li a:hover{
+    background-color: rgb(20, 220, 213);
+    border-radius: 10px;
+    color: #fff;
+}
+.header{
+    height: 90px;
+}

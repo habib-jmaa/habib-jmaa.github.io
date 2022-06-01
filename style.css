@@ -1,0 +1,22 @@
+.titre{
+    background-color: #ff9b85;
+    text-align: center;
+}
+.html{
+    background-color: #ffd97d;
+    margin-right: 100px;
+    width: 500px; ;
+    height: 50px;
+    text-align: center;
+    float: right 1000px;
+}
+.css{
+    background-color: #aaf683;
+    margin-right: 100px;
+    width: 500px; ;
+    height: 50px;
+    text-align: center;
+}
+p{text-align: center;
+font-weight: bold;
+font-size: 30px;}

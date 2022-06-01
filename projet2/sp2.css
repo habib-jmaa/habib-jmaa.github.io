@@ -1,0 +1,28 @@
+.page2{
+    background-color:#ff6b6b;
+    height: 900px;
+    width: 900px;
+    margin: 40px auto;
+    padding: 50px;
+}
+.menu2 ul li{
+    list-style: none;
+    display: inline-block;
+}
+.menu2 ul li a{
+    color: #52b788;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+.menu2 ul li a:hover{
+    background-color: rgb(20, 220, 213);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
+.header2{
+    height: 90px;
+}
+.v1{
+    margin-left: 170px;
+}
